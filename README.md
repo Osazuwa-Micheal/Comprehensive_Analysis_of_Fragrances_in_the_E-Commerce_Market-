@@ -121,5 +121,5 @@ Other brands like Kenneth Cole, Paco Rabanne, Ralph Lauren, Elizabeth Taylor, Ve
 ---
 
 ## 🔗 Project Link  
-[Perfume Market Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=51152078-6dea-4f1e-b74b-b2fa6b30a7f5&autoAuth=true&ctid=d9d0ebca-a20f-4243-b258-ed1953e0ed58)  
+[Perfume Market Power BI Dashboard]([https://app.powerbi.com/reportEmbed?reportId=51152078-6dea-4f1e-b74b-b2fa6b30a7f5&autoAuth=true&ctid=d9d0ebca-a20f-4243-b258-ed1953e0ed58](https://app.powerbi.com/view?r=eyJrIjoiMzBmY2MwM2MtOGJjYy00NDA5LThhYjEtNzg5MTI4ZWQ5M2Y4IiwidCI6ImQ5ZDBlYmNhLWEyMGYtNDI0My1iMjU4LWVkMTk1M2UwZWQ1OCJ9))  
 
